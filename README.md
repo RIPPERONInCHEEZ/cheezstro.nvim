@@ -1,3 +1,6 @@
+- as with the kickstart.nvim config, using this as a place to store config, and look back on documentation if needed.
+- Will slowly tear this apart and make it my own.
+
 # AstroNvim Template
 
 **NOTE:** This is for AstroNvim v4+
